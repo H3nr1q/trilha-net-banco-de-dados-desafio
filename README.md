@@ -46,6 +46,13 @@ Você deverá criar diversas consultas, com o objetivo de retornar os dados a se
 
 ![Exercicio 1](Imagens/1.png)
 
+### Solução
+```SQL
+select 
+nome,
+ano
+from filmes
+
 ## 2 - Buscar o nome e ano dos filmes, ordenados por ordem crescente pelo ano
 
 ![Exercicio 2](Imagens/2.png)
